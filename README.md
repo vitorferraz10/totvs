@@ -1,31 +1,38 @@
-# TotvsMain
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<img width="1289" alt="image" src="https://user-images.githubusercontent.com/72113998/168642800-e676fd1d-f099-42fc-bdde-f88018c0aa97.png">
 
-## Code scaffolding
+### TÍTULO 
+<h1 align="center">Todo list</h1>
+</br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
+### DESCRIÇÃO DO PROJETO
+<p>Projeto simples, criado para teste. O intuito do projeto é realizar uma lista de tarefas utilizando TYPESCRIPT, ANGULAR, BOOTSTRAP E BOAS PRÁTICAS</p>
+  </br>
+### Features
 
-## Build
+- [x] Cadastro de tarefas na lista
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+  </br>
+### HOSPEDAGEM DO SITE
+<span>Site não hospedado</span>
 
-## Running unit tests
+  </br>
+### COMO RODAR A APLICAÇÃO NA SUA MÁQUINA 
+<h3>Para rodar o projeto, basta:</>
+  </br>
+    </br>
+<ul>
+  <li>Ter o NODE instalado em sua maquina</li>
+  <li>Ter o GIT instalado em sua maquina</li>
+  <li>Abrir o seu terminal de preferencia</li>
+  <li>Clonar este repositório: 'https://github.com/vitorferraz10/totvs.git'</li>
+  <li>Abrir a sua IDE de preferencia com a basta do projeto</li>
+  <li>RODAR YARN OU NPM INSTALL NA RAIZ DO PROJETO</li>
+  <li>RODAR 'ng server' PARA QUE O PROJETO FIQUE RODANDO EM SUA MÁQUINA UMA PORTA LOCALHOST</li>
+</ul>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Deploying to GitHub Pages
-
-Run `ng github-pages:deploy` to deploy to GitHub Pages.
-
-## Further help
-
-To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### PROBLEMAS ENCONTRADOS
+  <span>Por falta de experiencia com ANGULAR, obtice diversos problemas de dependencias, problemas que impediram a realizações de testes e fazer requisições HTTP. Todos os problemas estavam na pasta ***NODE_MODULES***
+  
+  TENHO DIVERSOS REPOSITÓRIOS COM TESTES E REQUISIÇÕES DE HTTP, CRIANDO API E TBM FAZENDO REQUISIÇÕES DE APIS EXTERNAS.
