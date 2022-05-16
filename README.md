@@ -33,6 +33,6 @@
 </ul>
 
 ### PROBLEMAS ENCONTRADOS
-  <span>Por falta de experiencia com ANGULAR, obtice diversos problemas de dependencias, problemas que impediram a realizações de testes e fazer requisições HTTP. Todos os problemas estavam na pasta ***NODE_MODULES***
+  <span>Por falta de experiencia com ANGULAR, obtive diversos problemas de dependencias, problemas que impediram a realizações de testes e fazer requisições HTTP. Todos os problemas estavam na pasta ***NODE_MODULES***
   
-  TENHO DIVERSOS REPOSITÓRIOS COM TESTES E REQUISIÇÕES DE HTTP, CRIANDO API E TBM FAZENDO REQUISIÇÕES DE APIS EXTERNAS.
+  TENHO DIVERSOS REPOSITÓRIOS COM TESTES E REQUISIÇÕES HTTP, CRIANDO API EM NODE E TAMBÉM FAZENDO REQUISIÇÕES DE APIS EXTERNAS.
