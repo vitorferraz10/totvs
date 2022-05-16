@@ -23,7 +23,12 @@ export class AppComponent {
     return this.http.post(url, body);
   } */
 
-  saveTodo() {
+  enterKeyAddTodo(_data: any) {
+    this.saveTodo()
+  }
+
+  saveTodo(event?: HTMLFormElement) {
+    console.log(event);
     if (this.newTodo) {
       let todo = new Todo();
       todo.name = this.newTodo;
