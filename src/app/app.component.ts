@@ -28,6 +28,7 @@ export class AppComponent {
       let todo = new Todo();
       todo.name = this.newTodo;
       todo.isCompleted = true;
+
       this.newTodo.length && this.todos.push(todo);
       /*  this.requestJsonServer(todo.name); */
       this.newTodo = "";
