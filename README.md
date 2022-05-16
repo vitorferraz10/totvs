@@ -27,7 +27,7 @@
   <li>Ter o GIT instalado em sua maquina</li>
   <li>Abrir o seu terminal de preferencia</li>
   <li>Clonar este repositório: 'https://github.com/vitorferraz10/totvs.git'</li>
-  <li>Abrir a sua IDE de preferencia com a basta do projeto</li>
+  <li>Abrir a sua IDE de preferencia com a pasta do projeto</li>
   <li>RODAR YARN OU NPM INSTALL NA RAIZ DO PROJETO</li>
   <li>RODAR 'ng server' PARA QUE O PROJETO FIQUE RODANDO EM SUA MÁQUINA UMA PORTA LOCALHOST</li>
 </ul>
