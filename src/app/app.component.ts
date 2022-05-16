@@ -8,12 +8,12 @@ import { Todo } from "./Todo";
   styleUrls: ["./app.component.css"],
 })
 export class AppComponent {
-/*   public http: HttpClient; */
+  /*   public http: HttpClient; */
   todos: Todo[] = [];
   newTodo: string;
   valueEdit: string;
 
- /*  requestJsonServer(name: string, id?: number) {
+  /*  requestJsonServer(name: string, id?: number) {
     const url = "http://localhost/3000/todos";
     const body = {
       name,
@@ -28,8 +28,8 @@ export class AppComponent {
       let todo = new Todo();
       todo.name = this.newTodo;
       todo.isCompleted = true;
-      this.todos.push(todo);
-     /*  this.requestJsonServer(todo.name); */
+      this.newTodo.length && this.todos.push(todo);
+      /*  this.requestJsonServer(todo.name); */
       this.newTodo = "";
     } else {
       alert("Please Enter Todo");
